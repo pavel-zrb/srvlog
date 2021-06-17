@@ -56,7 +56,7 @@
         <jacoco.basedir>${project.basedir}/../target/coverage</jacoco.basedir>
         <jackson.version>2.9.10.8</jackson.version>
         <jackson-core.version>2.9.10</jackson-core.version>
-        <guava.version>24.1.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <jacoco.version>0.8.5</jacoco.version>
         <sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml,../target/site/jacoco-aggregate/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
         <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
