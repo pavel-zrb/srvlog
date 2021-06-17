@@ -52,7 +52,7 @@
         <spring.security.version>5.5.0</spring.security.version>
         <org.springframework.version>5.3.8</org.springframework.version>
         <jdbc-proc.version>1.1-2</jdbc-proc.version>
-        <tomcat.version>7.0.42</tomcat.version>
+        <tomcat.version>7.0.107</tomcat.version>
         <jacoco.basedir>${project.basedir}/../target/coverage</jacoco.basedir>
         <jackson.version>2.9.10.8</jackson.version>
         <jackson-core.version>2.9.10</jackson-core.version>
